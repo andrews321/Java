@@ -1,4 +1,4 @@
-package numero_Aleatorio;
+package numero_Aleatorio_If;
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {

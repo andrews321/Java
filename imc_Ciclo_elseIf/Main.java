@@ -1,4 +1,4 @@
-package indice_masa_Corporal;
+package imc_Ciclo_elseIf;
 
 import java.util.Scanner;
 

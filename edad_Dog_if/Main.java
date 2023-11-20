@@ -1,4 +1,4 @@
-package edad_Dog;
+package edad_Dog_if;
 import java.util.Scanner;
 public  class Main {
         public static void main(String[] args) {
